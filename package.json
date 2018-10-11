@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/Gpx/react-chassis.git"
   },
-  "author": "",
+  "author": "Giorgio Polvara <polvara@gmail.com>",
   "license": "ISC",
   "main": "index.js",
   "scripts": {
